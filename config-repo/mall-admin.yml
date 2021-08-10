@@ -89,7 +89,7 @@ minio:
   accessKey: admin     #访问的key
   secretKey: Zn123456! #访问的秘钥
 server:
-  port: 8880
+  port: 8980
 ## 默认订购人密码
 system:
   default:
